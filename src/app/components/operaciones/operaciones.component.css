@@ -1,0 +1,15 @@
+.container-fluid{
+    width: 100%;
+}
+
+.panel2{
+    background-color: #0f2e41;
+    color: #ffffff;
+}
+
+.btn-secondary{
+    background-color: #3F6E8A !important;
+}
+.btn-secondary:hover, .btn-secondary:active{
+    background-color: #0f2e41 !important;
+}
