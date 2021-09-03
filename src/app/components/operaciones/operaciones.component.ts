@@ -17,6 +17,8 @@ export class OperacionesComponent implements OnInit {
 
   propinaTotal = 0;
 
+  prueba = 0;
+
   limpiar(): void {
     this.totalCuenta = 0;
     this.porcentaje = 0;
